@@ -24,6 +24,6 @@ $ ./domain_to_ipv4 example.com
 
 - [getaddrinfo(3), freeaddrinfo(3)](https://pubs.opengroup.org/onlinepubs/9699919799/functions/getaddrinfo.html)
 
-- [get_strerror(3)](https://pubs.opengroup.org/onlinepubs/9699919799/functions/gai_strerror.html)
+- [gai_strerror(3)](https://pubs.opengroup.org/onlinepubs/9699919799/functions/gai_strerror.html)
 
 - [inet_ntop(3)](https://pubs.opengroup.org/onlinepubs/9699919799/functions/inet_ntop.html)
